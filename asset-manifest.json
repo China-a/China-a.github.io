@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/git@github.com:China-a/ReactTicTacToe.git/static/js/main.59b3fa42.js",
-    "index.html": "/git@github.com:China-a/ReactTicTacToe.git/index.html",
-    "main.59b3fa42.js.map": "/git@github.com:China-a/ReactTicTacToe.git/static/js/main.59b3fa42.js.map"
+    "main.js": "/ReactTicTacToe.git/static/js/main.59b3fa42.js",
+    "index.html": "/ReactTicTacToe.git/index.html",
+    "main.59b3fa42.js.map": "/ReactTicTacToe.git/static/js/main.59b3fa42.js.map"
   },
   "entrypoints": [
     "static/js/main.59b3fa42.js"
